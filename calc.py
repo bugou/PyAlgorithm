@@ -12,5 +12,8 @@ def calc(input_str):
     for i in input_str:
         pass
 
+if __name__ == "__main__":
+    pass
+
 
 
